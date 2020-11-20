@@ -12,6 +12,7 @@ router.get("/me", authMW, async (req, res) => {
 });
 
 router.get("/", async (req, res) => {
+  console.log(req.body)
   const user = await User.find();
   res.status(200).send(user);
 });
