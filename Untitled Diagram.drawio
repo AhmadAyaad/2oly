@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-30T13:20:47.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="OUtT0G2XoOVH_ggwsx5-" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-30T13:33:51.808Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="ERAyrevIVSeA1oQyVEN0" type="github" pages="2">
   <diagram id="VA7MOSldl7YfBqZQzGAR" name="Page-1">
     <mxGraphModel dx="861" dy="357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -176,7 +176,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7sRNJwNgNg4urtKxXXlA" name="Page-2">
-    <mxGraphModel dx="1883" dy="3728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1883" dy="3671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -247,6 +247,84 @@
         </mxCell>
         <mxCell id="YdzgaQkzGa7IrUA7pVr9-5" value="statement(byan || desc 3n el 7rka)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="625" y="-2220" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="peZJRSkRbJ9Vkzcn7a6w-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="-3160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="peZJRSkRbJ9Vkzcn7a6w-2" value="اذن صرف او اضافة(نفس الحاجة باختلاف اlogic&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-3250" width="235" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="peZJRSkRbJ9Vkzcn7a6w-3" value="رقم الاذن لو manual" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="-3160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="peZJRSkRbJ9Vkzcn7a6w-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-3170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="peZJRSkRbJ9Vkzcn7a6w-5" value="تاريخ الاذن" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="-3160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="peZJRSkRbJ9Vkzcn7a6w-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="-3100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="peZJRSkRbJ9Vkzcn7a6w-7" value="بيان" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="675" y="-3110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="peZJRSkRbJ9Vkzcn7a6w-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-3115" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="peZJRSkRbJ9Vkzcn7a6w-9" value="مخزن" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="-3110" width="55" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="peZJRSkRbJ9Vkzcn7a6w-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-3030" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="peZJRSkRbJ9Vkzcn7a6w-11" value="الصنف" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="695" y="-3025" width="55" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="peZJRSkRbJ9Vkzcn7a6w-12" value="1001" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-3035" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="peZJRSkRbJ9Vkzcn7a6w-13" value="barcode&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22540%22%20y%3D%22-3030%22%20width%3D%22120%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%D8%A7%D9%84%D8%B5%D9%86%D9%81%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22695%22%20y%3D%22-3025%22%20width%3D%2255%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="-3030" width="55" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="peZJRSkRbJ9Vkzcn7a6w-14" value="زجاجة" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="-2950" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="peZJRSkRbJ9Vkzcn7a6w-15" value="الوحدة" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-2945" width="55" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="peZJRSkRbJ9Vkzcn7a6w-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="-2955" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="peZJRSkRbJ9Vkzcn7a6w-17" value="qty" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-2950" width="55" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="peZJRSkRbJ9Vkzcn7a6w-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-2890" width="510" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="peZJRSkRbJ9Vkzcn7a6w-31" value="مخزن" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-2880" width="55" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="peZJRSkRbJ9Vkzcn7a6w-32" value="الصنف" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="-2880" width="55" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="peZJRSkRbJ9Vkzcn7a6w-33" value="barcode&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22540%22%20y%3D%22-3030%22%20width%3D%22120%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%D8%A7%D9%84%D8%B5%D9%86%D9%81%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22695%22%20y%3D%22-3025%22%20width%3D%2255%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="545" y="-2880" width="55" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="peZJRSkRbJ9Vkzcn7a6w-34" value="الوحدة" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="635" y="-2880" width="55" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="peZJRSkRbJ9Vkzcn7a6w-35" value="qty" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-2700" width="55" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="peZJRSkRbJ9Vkzcn7a6w-37" value="qty" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-2880" width="55" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="peZJRSkRbJ9Vkzcn7a6w-39" value="product transactions&#xa;&#xa;&#xa;action(enum) =&gt; tswya , edfat w7da r2esya &#xa;,edaft w7da fr3ya mbe3at,,mortg3 be3,mortg3 shra&#xa;creationdate &#xa;pervious stock&#xa;atucalstock&#xa;warehouseId&#xa;transaction qty&#xa;productunitid&#xa;statment(byan) nullable" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="-2500" width="300" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="peZJRSkRbJ9Vkzcn7a6w-40" value="product permissions&lt;br&gt;&lt;br&gt;&lt;br&gt;action(enum) =&amp;gt; tswya , edfat w7da r2esya&amp;nbsp;&lt;br&gt;,edaft w7da fr3ya mbe3at,,mortg3 be3,mortg3 shra&lt;br&gt;creationdate&amp;nbsp;&lt;br&gt;pervious stock&lt;br&gt;atucalstock&lt;br&gt;warehouseId&lt;br&gt;transaction qty&lt;br&gt;productunitid&lt;br&gt;statment(byan) nullable" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-95" y="-3180" width="300" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
